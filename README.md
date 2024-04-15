@@ -1,6 +1,5 @@
 Swift dev 
-
-See what I'm listening 🎧
+I use Arc btw
 
 
 
