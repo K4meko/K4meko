@@ -1,6 +1,6 @@
 Swift dev 
 
-I use Arc btw
+I use MacOS btw
 
 
 
