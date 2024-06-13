@@ -1,6 +1,6 @@
 Swift dev 
 
-I use MacOS btw
+I use MacOS/Fedora btw
 <h2>Now listening to:</h2>
 
 
