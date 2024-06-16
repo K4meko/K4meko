@@ -1,6 +1,7 @@
 Swift dev 
 
 I use MacOS/Fedora btw
+
 Windows hater, UNIX lover
 <h2>Now listening to:</h2>
 
