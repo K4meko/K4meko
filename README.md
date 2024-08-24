@@ -1,7 +1,5 @@
 Swift dev 
 
-I use MacOS/Fedora btw
-
 Windows hater, UNIX lover
 
 <h3 align="left">Languages and Tools:</h3>
